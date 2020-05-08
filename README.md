@@ -58,11 +58,11 @@
 
   （2）统计用户
    
-![countUser](https://github.com/LcmBlog/SSM-Ticketing-System/blob/master/project_presentation_images/admin/counthUser.PNG)
+![countUser](https://github.com/LcmBlog/SSM-Ticketing-System/blob/master/project_presentation_images/admin/countUser.PNG)
 
   （3）修改用户
    
-![updateUser](https://github.com/LcmBlog/SSM-Ticketing-System/blob/master/project_presentation_images/admin/updateUser.PNG)
+![updateUser](https://github.com/LcmBlog/SSM-Ticketing-System/blob/master/project_presentation_images/user/updateUser.PNG)
 
 #### 2-2-3 订单统计
 

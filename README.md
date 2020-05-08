@@ -11,7 +11,7 @@
 ### 2-1 登录与注册
 
   （1）登录页
-![loginPage](https://github.com/LcmBlog/SSM-Ticketing-System/blob/master/project_presentation_images/loginPage.PNG "登录页")
+![add image](https://github.com/LcmBlog/SSM-Ticketing-System/blob/master/project_presentation_images/loginPage.PNG "登录页")
  
   （2）注册页
 ![registerPage](https://github.com/LcmBlog/SSM-Ticketing-System/blob/master/project_presentation_images/loginPage.PNG "登录页")

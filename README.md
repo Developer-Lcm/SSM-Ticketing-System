@@ -20,7 +20,7 @@
  
   （2）注册页
    
-![registerPage](https://github.com/LcmBlog/SSM-Ticketing-System/blob/master/project_presentation_images/loginPage.PNG)
+![registerPage](https://github.com/LcmBlog/SSM-Ticketing-System/blob/master/project_presentation_images/registerPage.PNG)
  
 ### 2-2 管理端操作界面
 

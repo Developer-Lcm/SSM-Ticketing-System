@@ -36,7 +36,7 @@
 
   （2）查询车辆
    
-![adminIndex](https://github.com/LcmBlog/SSM-Ticketing-System/blob/master/project_presentation_images/admin/adminIndex.PNG)
+![adminIndex](https://github.com/LcmBlog/SSM-Ticketing-System/blob/master/project_presentation_images/admin/searchCar.PNG)
 
   （3）统计车辆
    
@@ -44,7 +44,7 @@
 
   （4）车辆详情信息
    
-![carImformation](https://github.com/LcmBlog/SSM-Ticketing-System/blob/master/project_presentation_images/admin/adminIndex.PNG)
+![carImformation](https://github.com/LcmBlog/SSM-Ticketing-System/blob/master/project_presentation_images/admin/carImformation.PNG)
 
   （5）修改车辆信息
    
@@ -80,7 +80,7 @@
 
   （3）用户个人资料
    
-![](https://github.com/LcmBlog/SSM-Ticketing-System/blob/master/project_presentation_images/user/bookingTicket.PNG)
+![userImformation](https://github.com/LcmBlog/SSM-Ticketing-System/blob/master/project_presentation_images/user/userImformation.PNG)
   
   （4）用户资料修改
    
